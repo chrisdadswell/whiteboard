@@ -1,5 +1,6 @@
 # whiteboard
 
+
 This is a lightweight NodeJS collaborative Whiteboard/Sketchboard witch can easily be customized...
 
 ![start](./doc/start.png)
